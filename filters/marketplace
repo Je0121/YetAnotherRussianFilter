@@ -1,0 +1,23 @@
+! Ozon
+||cdn1.ozonusercontent.com/s3/sellerassets/$image,media
+ozon.*##[data-widget="advBanner"]
+ozon.*##[class*="rtb"]
+ozon.*##div.uw_a1i
+||ir-3.ozone.ru/s3/cms/73/ta2/wc1450/desk_main_ru.png$image
+ozon.*##[style="height:100px;"]
+ozon.*##div[data-widget="bannerCarousel"]
+! Wildberries
+wildberries.ru##.mo-modal__wrapper
+||static-basket-01.wbbasket.ru/vol1/crm-bnrs/$image,media
+wildberries.ru##div[class*="banner"]
+wildberries.ru##.simple-menu__diamonds-wrap > .simple-menu__diamonds
+! Megamarket
+||main-cdn.sbermegamarket.ru/upload/mnt/$image,media
+megamarket.ru##section.banner-slider
+megamarket.ru##article.content-card_banner
+megamarket.ru###adjust-smart-banner-wrapper
+megamarket.ru##.promo-constructor
+! BigGeek
+biggeek.ru##.swiper-container-pointer-events.swiper-container-horizontal.swiper-container-initialized.first-preview__swiper
+! Technodeus
+technodeus.ru##.swiper-horizontal.swiper-initialized.index-carousel.swiper-container.HomeMainSwiper.swiper
