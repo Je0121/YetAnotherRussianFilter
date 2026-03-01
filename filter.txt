@@ -1,0 +1,5 @@
+! Title: Yet Another Russian Filter
+! Description: Это фильтр uBlock Origin который сделан просто так. 
+! Homepage: https://github.com/Je0121/YetAnotherRussianFilter/
+! Expires: 23 hours
+! Please report any problems via GitHub issue ticket.
