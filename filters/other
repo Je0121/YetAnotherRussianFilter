@@ -5,3 +5,68 @@
 @@||top-fwz1.mail.ru$all
 @@||yandex.ru/ads/$all?domain=howdyho.net
 howdyho.net##.g-ads:style(opacity: 1.1e-11; pointer-events: none;)
+
+! -- Кино
+! HDRezka и зеркала
+hdrezka.*,hdrezka-home.*,rezka.*##div:matches-css(z-index: 2147483646)
+hdrezka.*##noindex
+hdrezka.*##div:matches-css(z-index: 0)
+hdrezka.*##iframe[src*="s.schulist.link"]
+hdrezka.*##div:matches-css(height: 250px):has(a):remove()
+lordfilm133.ru##[vid_vpaut_pl]
+! -- Домены
+! HDrezka
+||cdn.jsdelivr.net/npm/yandex-metrica-watch/$script,xhr,frame
+||ad2the.net$image,media
+||content.adriver.ru$3p
+||r.botsford.link$media
+||s.schulist.link$image,media,frame
+! --
+! Lordfilms
+||content.adriver.ru$3p
+||videoroll.net$xhr,script
+||b5c1d2e8c9982e3b965a27ac72ru7284cc.com^$media
+||kinoscope.io^$all
+||kinescopecdn.net^$3p
+||proton.zerocdn.com$media
+
+! -- Метрика и аналитика
+||stats.getaim.org$image 
+||vuegenesisvue.com$image,xhr
+! -- Реклама и попапы
+||bashirian.biz$popup,doc
+||tr.admachina.com$popup,doc
+||0486.info$popup,doc
+||ccdofnvdtv.com$popup,doc
+||r7.adstag0102.xyz$popup,doc
+||mh6.adriver.ru$media
+||ad.adriver.ru$xhr,media
+||exchange.buzzoola.com$xhr
+||tube.buzzoola.com$xhr,script
+||wrapper.bracdn.online$xhr
+||vast2.ufouxbwn.com$xhr
+||vast.ufouxbwn.com$xhr
+||im1.ufouxbwn.com$image,media
+||dfn-network.pro^$3p
+||eye.targetads.io$image
+||videolink.host^$3p
+/vpaid*.js
+
+
+! -- Аниме
+anilibria.top##.commercial-banner
+animevost.org,v12.vost.pw##a[href*="promo"]
+anistar.org,astar.bz##iframe[src*="banner"]
+anistar.org##a[href*="adv"]
+! -- Домены
+||anilibria.top/storage/ads/$image,media
+||anilibria.top/api/v1/ads/$xhr
+||vmetrics.goodgame.ru:8081^$xhr
+||goodgame.ru/js/advert.js$script,xhr
+||wss://chat-1.goodgame.ru/counter/
+||animevost.org/brending/$image,media
+||v12.vost.pw/brending/$image,media
+||anistar.org/*/*banner*.jpg
+||vk.com/js/api/openapi.js$all?domain=anistar.org|v21.astar.bz
+||anistar.org/adblock/$frame
+||anistar.org/info_banners.php$frame
