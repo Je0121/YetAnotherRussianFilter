@@ -70,3 +70,14 @@ anistar.org##a[href*="adv"]
 ||vk.com/js/api/openapi.js$all?domain=anistar.org|v21.astar.bz
 ||anistar.org/adblock/$frame
 ||anistar.org/info_banners.php$frame
+
+! Torrent-трекер Rutracker
+! ---
+||betsonsport.ru/banners/$frame
+||betsonsport.ru/click/$frame
+||betsonsport.ru/img/$media,image
+||rutrk.org$image,media
+rutracker.org,rutracker.net##td.tCenter
+rutracker.org,rutracker.net##iframe
+rutracker.org,rutracker.net##[id*="bn-"]
+! ---
