@@ -79,4 +79,5 @@ anistar.org##a[href*="adv"]
 ||rutrk.org$image,media
 rutracker.org,rutracker.net##iframe
 rutracker.org,rutracker.net##[id*="bn-"]
+rutracker.org,rutracker.net#@#td.tCenter
 ! ---
