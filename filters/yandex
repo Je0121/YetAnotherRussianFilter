@@ -10,6 +10,7 @@ ya.*,yandex.*##div[data-type="nav"][data-suggest-counter*="safecl"]
 ||storage.mds.yandex.net/get-bstor/$image,media
 ya.*,yandex.*##div.ImagesViewer-SidebarAdv
 ! Yandex Ads
+||yandex.ru/ads/trace$ping
 ##[class*="rsya"]
 ##[id*="rsya"]
 ##[class*="rtb"]
@@ -93,3 +94,8 @@ music.yandex.*##[class*="banner"]
 ||yastatic.net/naydex/yandex-search/Jn7MC1I58/*$image
 ! Ya Games
 yandex.*##.adv-focusable
+! Yandex Translate
+||yastatic.net/naydex/translate-yandex-ru/$image
+||translate.yandex.ru/_crpd/$image,xhr,script
+! BeriZaryad Iskluch'enie
+berizaryad.ru#@#[class*="adv"]
