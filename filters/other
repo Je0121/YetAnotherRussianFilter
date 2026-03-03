@@ -81,3 +81,20 @@ rutracker.org,rutracker.net##iframe
 rutracker.org,rutracker.net##[id*="bn-"]
 rutracker.org,rutracker.net#@#td.tCenter
 ! ---
+! Linkify
+go.linkify.ru##.overlay
+go.linkify.ru##.banner
+! ---
+! Overclockers
+overclockers.ru##.hide-mobile.top-menu.menu.inverted.ui > .main-wrap.container.ui > .menu.right > .hostkey.item
+overclockers.co.uk##ck-rotating-banner
+overclockers.co.uk##a:has(picture)
+overclockers.ru##.ad-sticly__parent
+overclockers.ua##.adsbygoogle
+! ---
+! Litres
+||cdn.litres.ru/static/imgb2/media/$image,media
+litres.ru##[aria-label="Рекламный слайдер"]
+litres.ru##[data-testid*="promo"]
+litres.ru##[data-testid="main__bannersCarousel"]
+litres.ru##div:matches-css(height: 50px)
