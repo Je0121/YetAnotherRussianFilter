@@ -54,6 +54,9 @@ mail.yandex.*##[data-testid="page-layout_right-column_container_v1"]
 mail.yandex.*#@#[data-testid="orb-global-bar-service-list"]
 ! Yandex Disk
 disk.yandex.*##.InfoSpace_expanded.InfoSpace_notanimation.InfoSpace_discount.InfoSpace.Link
+disk.yandex.ru##.top-direct-line
+disk.yandex.ru##.direct
+||disk.yandex.ru/direct.html$frame
 ! Yandex Realty
 realty.yandex.*##[class*="promo"]
 ! Kinopoisk
